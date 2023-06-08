@@ -4,4 +4,5 @@ on: push
 
 jobs:
   realease:
-    uses: sonalsingroha/test2
+    uses: sonalsingroha/test2/.github/workflows/semantic-release.yml
+
