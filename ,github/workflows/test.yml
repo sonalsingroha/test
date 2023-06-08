@@ -1,0 +1,6 @@
+name: realease
+on: [pull_request]
+
+jobs:
+  realease:
+    uses: sonalsingroha/test2
