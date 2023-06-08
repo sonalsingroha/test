@@ -1,5 +1,6 @@
 name: realease
-on: [pull_request]
+on: push
+  - main
 
 jobs:
   realease:
